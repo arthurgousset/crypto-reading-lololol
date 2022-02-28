@@ -112,7 +112,7 @@ Link: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 
 ## [@peacekeeper](https://github.com/peacekeeper)'s list of blockchain identity projects
 
-Link:  https://github.com/peacekeeper/blockchain-identity
+Link: https://github.com/peacekeeper/blockchain-identity
 
 Content:
 
