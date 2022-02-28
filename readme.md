@@ -124,6 +124,17 @@ Content:
 > 
 > * ... 
 
+## [@nosleepjon](https://twitter.com/nosleepjon)'s NoSleep reading lists
+
+Links:
+
+* [NoSleep Reading List V6 🧵](https://twitter.com/nosleepjon/status/1497696093114675204)
+* [NoSleep Reading List V5 🧵](https://twitter.com/nosleepjon/status/1494386326778650632)
+* [NoSleep Reading List V4 🧵](https://twitter.com/nosleepjon/status/1491214314379759617)
+* [NoSleep reading list V3 🧵](https://twitter.com/nosleepjon/status/1487611280559063040)
+* [NoSleep reading list V2 🧵](https://twitter.com/nosleepjon/status/1483603470812958720)
+* [NoSleep reading list for tn 🧵](https://twitter.com/nosleepjon/status/1480353410457157640)
+
 ## the end (PRs welcome!)
 
 <img width="420" alt="image" src="https://i.imgflip.com/66vuzz.jpg">
