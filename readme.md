@@ -27,7 +27,6 @@ Contents:
 > * Other references
 
 
-
 ## [@bryanhpchiang](https://twitter.com/bryanhpchiang)'s protocol reading list
 
 Link: https://github.com/bryanhpchiang/protocol-reading-list
@@ -55,12 +54,11 @@ Contents:
 > * Miscellaneous
 > * kZK
 
-## [@sparbhu](https://twitter.com/sparbhu) and [@gmirea](https://twitter.com/gmirea)'s PM "Top 10 Resources for Learning Blockchain, Defi, NFT" 
+## [@sparbhu](https://twitter.com/sparbhu) and [@gmirea](https://twitter.com/gmirea)'s "Top 10 Resources for Learning Blockchain, Defi, NFT"
 
 Link: https://sunita-parbhu.medium.com/2022-top-10-resources-for-learning-blockchain-defi-nft-cc016e963aad
 
 > So you’re a successful tech Product Manager or similar, considering a career move into the blockchain/Defi/NFT/web3 space. Or perhaps you’re already in the sector and want to broaden your horizons and point of view. Where do you start to train yourself?
-
 
 Contents
 
@@ -112,6 +110,19 @@ Link: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 | https://github.com/jlopp/physical-bitcoin-attacks/blob/master/README.md                                                                  |
 | https://cryptosec.info/checklist/                                                                                                        |
 
+## [@peacekeeper](https://github.com/peacekeeper)'s list of blockchain identity projects
+
+Link:  https://github.com/peacekeeper/blockchain-identity
+
+Content:
+
+> Projects/companies working on blockchain and identity (pull requests welcome):
+> 
+> * [Namecoin](http://namecoin.org/) is a blockchain that has been conceived from the start to be used for registering domain names. It is the first fork of the Bitcoin software.
+> * [NameID](https://nameid.org/) is an OpenID service based on Namecoin identifiers.
+> * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is an MIT paper about a NameCoin-based decentralized authentication system which maintains a public ledger of domains and their associated public keys.
+> 
+> * ... 
 ## the end (PRs welcome!)
 
 <img width="420" alt="image" src="https://i.imgflip.com/66vuzz.jpg">
