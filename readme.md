@@ -123,6 +123,7 @@ Content:
 > * [CertCoin](https://courses.csail.mit.edu/6.857/2014/files/19-fromknecht-velicann-yakoubov-certcoin.pdf) is an MIT paper about a NameCoin-based decentralized authentication system which maintains a public ledger of domains and their associated public keys.
 > 
 > * ... 
+
 ## the end (PRs welcome!)
 
 <img width="420" alt="image" src="https://i.imgflip.com/66vuzz.jpg">
