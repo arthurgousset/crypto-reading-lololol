@@ -1,6 +1,6 @@
 # Crypto reading list of lists of lists of lists
 
-<img width="420" alt="image" src="https://i.imgflip.com/66vvfq.jpg">
+<img width="520" alt="image" src="https://i.imgflip.com/66vzu7.jpg">
 
 ## [Jump Crypto](https://twitter.com/JumpCryptoHQ) reading list
 
