@@ -2,6 +2,8 @@
 
 <img width="520" alt="image" src="https://i.imgflip.com/66vzu7.jpg">
 
+
+
 ## [Jump Crypto](https://twitter.com/JumpCryptoHQ) reading list
 
 Link: https://github.com/JumpCrypto/crypto-reading-list
@@ -11,6 +13,7 @@ Link: https://github.com/JumpCrypto/crypto-reading-list
 > The content on the toplevel page contains what we consider essential reading. Child pages contain deeper, topic-specific information to review afterward.
 
 Contents:
+
 > * Why is crypto important?
 > * Blockchain mechanics & innovations
 > * DeFi primitives
