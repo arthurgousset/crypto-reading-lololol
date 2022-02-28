@@ -114,4 +114,4 @@ Link: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 
 ## the end (PRs welcome!)
 
-<img width="300" alt="image" src="https://i.imgflip.com/66vuzz.jpg">
+<img width="420" alt="image" src="https://i.imgflip.com/66vuzz.jpg">
