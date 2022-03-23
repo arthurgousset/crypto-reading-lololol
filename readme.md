@@ -13,7 +13,8 @@
 
 ### nosleepjon's gud reads
 
-* [NoSleep Reading List V7 🧵](https://twitter.com/nosleepjon/status/1500893496395321353?s=21)
+* [NoSleep Reading List V8 🧵](https://twitter.com/nosleepjon/status/1504214125077045254)
+* [NoSleep Reading List V7 🧵](https://twitter.com/nosleepjon/status/1500893496395321353)
 * [NoSleep Reading List V6 🧵](https://twitter.com/nosleepjon/status/1497696093114675204)
 * [NoSleep Reading List V5 🧵](https://twitter.com/nosleepjon/status/1494386326778650632)
 * [NoSleep Reading List V4 🧵](https://twitter.com/nosleepjon/status/1491214314379759617)
