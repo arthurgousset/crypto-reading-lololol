@@ -13,6 +13,7 @@
 
 ### nosleepjon's gud reads
 
+* [NoSleep Reading List V7 🧵](https://twitter.com/nosleepjon/status/1500893496395321353?s=21)
 * [NoSleep Reading List V6 🧵](https://twitter.com/nosleepjon/status/1497696093114675204)
 * [NoSleep Reading List V5 🧵](https://twitter.com/nosleepjon/status/1494386326778650632)
 * [NoSleep Reading List V4 🧵](https://twitter.com/nosleepjon/status/1491214314379759617)
@@ -94,7 +95,6 @@ Contents:
 > * Miscellaneous
 > * kZK
 
-
 ### rossant's awesome-math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Source: https://github.com/rossant/awesome-math
@@ -119,7 +119,6 @@ Source: https://github.com/rossant/awesome-math
 >         * [Abstract Algebra](#abstract-algebra)
 >         * [Group Theory](#group-theory)
 >         * [Linear Algebra](#linear-algebra)
-
 
 ### dcbuild3r's blockchain-development-guide
 
@@ -152,7 +151,6 @@ Source: https://github.com/nbro/understanding-math
 > - [What is conceptual understanding?](https://www.maa.org/external_archive/devlin/devlin_09_07.html) by Keith Devlin
 > - [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/) at [BetterExplained](https://betterexplained.com/)
 > - [How to study math](http://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx) by [Paul](http://tutorial.math.lamar.edu/)
-
 
 ## Other
 
