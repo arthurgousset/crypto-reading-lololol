@@ -120,7 +120,6 @@ Source: https://web3pms.substack.com/p/web3pms-launch-?s=r
 ### a16z's crypto canon (2019)
 
 Source: https://gist.github.com/0xarthurxyz/1b98c88533a4fe5c3dabd6871a5f89a6
-Original: https://a16z.com/2018/02/10/crypto-readings-resources/
  
 > WTF is the blockchain? — understanding the problem it solves before defining it
 > by Mohit Mamoria
@@ -141,6 +140,7 @@ Original: https://a16z.com/2018/02/10/crypto-readings-resources/
 > How does Ethereum work, anyway? — how it functions at a technical level, without complex math
 > by Preethi Kasireddy
 > https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+
 
 ## More technical
 
