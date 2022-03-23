@@ -139,7 +139,8 @@ Contents
 > How does Ethereum work, anyway? — how it functions at a technical level, without complex math
 > by Preethi Kasireddy
 > https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
-
+> 
+> ...
 
 ## More technical
 
