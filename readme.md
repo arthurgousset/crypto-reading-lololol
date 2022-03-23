@@ -5,9 +5,9 @@
 
 ## Contents
 
-1. [Less technical](#less-technical)
-2. [More technical](#more-technical)
-3. [Other](#other)
+1. [Less technical 💡](#less-technical)
+2. [More technical 👩‍💻](#more-technical)
+3. [Other 💭](#other)
 
 ## Less technical
 
@@ -95,24 +95,14 @@ Contents:
 > * kZK
 
 
-### rossant's awesome-math
+### rossant's awesome-math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Source: https://github.com/rossant/awesome-math
 
 > A curated list of awesome mathematics resources.
 
 > * [Contents](#contents)
-> * [General Resources](#general-resources)
->     * [Learning Platforms](#learning-platforms)
->     * [Learn to Learn](#learn-to-learn)
->     * [Youtube Series](#youtube-series)
->     * [Tools](#tools)
->     * [Questions and Answers](#questions-and-answers)
->     * [Encyclopedia](#encyclopedia)
->     * [Books](#books)
->     * [Magazines](#magazines)
->     * [Blogs](#blogs)
->     * [Misc](#misc)
+> ...
 > * [Lecture Notes](#lecture-notes)
 >     * [Foundations of Mathematics](#foundations-of-mathematics)
 >         * [Transition To Pure Rigour Math](#transition-to-pure-rigour-math)
@@ -129,6 +119,39 @@ Source: https://github.com/rossant/awesome-math
 >         * [Abstract Algebra](#abstract-algebra)
 >         * [Group Theory](#group-theory)
 >         * [Linear Algebra](#linear-algebra)
+
+
+### dcbuild3r's blockchain-development-guide
+
+Source: https://github.com/dcbuild3r/blockchain-development-guide
+
+> This guide will cover these main tracks, however anyone is free to submit a pull-request to add more or expand on the already existing ones:
+> 
+> 
+> - [Frontend development](#front-end-development)
+> - [Smart contract development](#smart-contract-development)
+> - [Backend blockchain development](#backend-development)
+> - [Core protocol development](#core-protocol-development)
+> - [Full-stack blockchain development](#full-stack-blockchain-development)
+> 
+> **Coming soon**
+> 
+> - [Security engineer](#security-engineer)
+> - [MEV searcher](#mev-searcher)
+> - [Cryptographer](#cryptographer)
+> - [Blockchain data analytics](#blockchain-data-analytics)
+
+### nbro's understanding-math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Source: https://github.com/nbro/understanding-math
+
+> - [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/)
+> - [How to Develop a Mindset for Math](https://betterexplained.com/articles/how-to-develop-a-mindset-for-math/) at [BetterExplained](https://betterexplained.com)
+> - [How do math geniuses understand extremely hard math concepts so quickly?](https://www.quora.com/How-do-math-geniuses-understand-extremely-hard-math-concepts-so-quickly) at [Quora](https://www.quora.com)
+> - [Understanding Math Concepts](http://www.allkindsofminds.org/thinking-with-numbers-understanding-math-concepts) at [AllKindsOfMinds](http://www.allkindsofminds.org/)
+> - [What is conceptual understanding?](https://www.maa.org/external_archive/devlin/devlin_09_07.html) by Keith Devlin
+> - [Learning to Learn: Math Abstraction](https://betterexplained.com/articles/learning-to-learn-math-abstraction/) at [BetterExplained](https://betterexplained.com/)
+> - [How to study math](http://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx) by [Paul](http://tutorial.math.lamar.edu/)
 
 
 ## Other
