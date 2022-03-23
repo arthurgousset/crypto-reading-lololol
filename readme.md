@@ -47,8 +47,7 @@ Contents
 
 > Filtered and organised links that I shared on my telegram channel : '[The Daily Ape](http://t.me/thedailyape)' 
 
-<img alt="image" src="https://i.imgur.com/JcHG1sK.png">
-
+<img width="420" alt="image" src="https://i.imgur.com/JcHG1sK.png">
 
 ### pastry's crypto reading list
 
