@@ -22,15 +22,6 @@
 * [NoSleep reading list V2 🧵](https://twitter.com/nosleepjon/status/1483603470812958720)
 * [NoSleep reading list for tn 🧵](https://twitter.com/nosleepjon/status/1480353410457157640)
 
-### Darrenlautf's dailyape notion page
-
-Source: https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e
-
-> Filtered and organised links that I shared on my telegram channel : '[The Daily Ape](http://t.me/thedailyape)' 
-
-<img alt="image" src="https://i.imgur.com/J5eVzqz.png">
-
-
 ### sparbhu and gmirea's 10 lessons for web3 PMs
 
 Source: https://sunita-parbhu.medium.com/2022-top-10-resources-for-learning-blockchain-defi-nft-cc016e963aad
@@ -49,6 +40,68 @@ Contents
 > * Lesson 8— Regulation
 > * Lesson 9— Consider DAOs
 > * Lesson 10 — Make friends, and Help
+### Darrenlautf's dailyape notion page
+
+Source: https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e
+
+> Filtered and organised links that I shared on my telegram channel : '[The Daily Ape](http://t.me/thedailyape)' 
+
+<img alt="image" src="https://i.imgur.com/J5eVzqz.png">
+
+
+### pastry's crypto reading list
+
+Source: https://twitter.com/pastryeth/status/1502686322623979531
+
+<img width="300" alt="image" src="https://i.imgur.com/xpEgyqX.png">
+
+
+[Bitcoin Whitepaper](https://bitcoin.org/en/bitcoin-paper)
+> First posted on the cryptography mailing list by Satoshi Nakamoto in 2008, the BTC whitepaper describes the under-workings of a purely peer-to-peer financial system built using cryptographic primitives
+
+[Into The Void](https://naavik.co/business-breakdowns/into-the-void) ([@pierskicks](https://twitter.com/pierskicks))
+> In this essay, Piers details the ongoing societal shift towards digital life, & how crypto is paving way for a self sovereign financial system, an open creator economy, & a digital representation & ownership layer via NFTs
+
+[Before Bitcoin](https://pet3rpan.medium.com/history-of-things-before-bitcoin-cryptocurrency-part-one-e199f02ca380) ([@pet3rpan_](https://twitter.com/pet3rpan_))
+> In this series, Peter takes us back to the 70’s to understand the origins of BTC.
+> 
+> Starting at Part One, Peter describes how the spread of cryptographic knowledge led to the cypherpunk movement & later on the invention of BTC
+
+[How to Get Rich](https://twitter.com/naval/status/1002103360646823936) - ([@naval](https://twitter.com/naval))
+> Naval has the ability to distill a complex world into short excerpts of wisdom, & the way he is able to articulate such things is a form of art.
+>
+> The ideas expressed in this thread resonate deeply with me, and I have returned to them time & time again
+
+[Tim Ferris Show - Understanding Ethereum](https://www.youtube.com/watch?v=42uhsP4vvCE) - ([@VitalikButerin](https://twitter.com/VitalikButerin) feat. [@naval](https://twitter.com/naval))
+> In this podcast, Vitalik & Naval discuss the underlying technology of ETH, how it differs from BTC, scaling plans & timelines, ETH2.0, future considerations, & more.
+
+[Flash Boys 2.0](https://arxiv.org/pdf/1904.05234.pdf)
+> The holy grail of MEV.
+>
+> In this essay, researchers document & quantify the deployment of arbitrage bots who exploit inefficiencies in DEXs by paying high tx fees and optimizing network latency to frontrun ordinary users’ trades
+
+[A Prehistory of the Ethereum Protocol](https://vitalik.ca/general/2017/09/14/prehistory.html) - ([@VitalikButerin](https://twitter.com/VitalikButerin))
+> In this post, Vitalik walks us through the significant evolutions and design decisions made while creating Ethereum, as well as many of the hardships faced along the way.
+
+[Hopium Diaries - Dystopian Dreams](https://www.youtube.com/watch?v=v1Z5BnBuFyE) ([@RektHQ](https://twitter.com/RektHQ))
+> A cinematic masterpiece.
+>
+> Hopium Diaries - Dystopian Dreams is a story that paints a picture of how cryptocurrency and decentralized finance will change the world.
+
+[Introduction to the Exponential Age](https://www.youtube.com/watch?v=0tJrla31t8I) - ([@RaoulGMI](https://twitter.com/RaoulGMI))
+> In this video, Raoul Pal explains his personal journey into BTC & ETH, & explains how these technologies are forming a “black hole” that is driving in value and developer talent at an exponential rate
+
+[The Wonders of Web3](https://www.youtube.com/watch?v=DlNDYMNJ5zQ) - ([@cdixon](https://twitter.com/cdixon) & [@naval](https://twitter.com/naval))
+
+> In this podcast, Tim, Chris, & Naval discuss the frontier of innovation for Web3, NFTs, & decentralization, & how such technologies are empowering a collective owned future over a corporate owned future.
+
+[But How Does Bitcoin Actually Work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4) - ([@3blue1brown](https://twitter.com/3blue1brown))
+> Grant Sanderson is an expert mathematician with a unique ability to explain and visualize complex topics in simple terms.
+>
+> In this video, Sanderson makes understanding Bitcoin easy.
+
+[Why Web3 Matters](https://twitter.com/cdixon/status/1442201621266534402) - ([@cdixon](https://twitter.com/cdixon))
+> This thread by Chris details the emergence of the Web3 era, which combines the decentralized, community-governed ethos of Web1 with the advanced, modern functionality of Web2.
 
 ## More technical
 
@@ -105,6 +158,26 @@ Contents:
 > * Miscellaneous
 > * kZK
 
+### dcbuild3r's blockchain-development-guide
+
+Source: https://github.com/dcbuild3r/blockchain-development-guide
+
+> This guide will cover these main tracks, however anyone is free to submit a pull-request to add more or expand on the already existing ones:
+> 
+> 
+> - [Frontend development](#front-end-development)
+> - [Smart contract development](#smart-contract-development)
+> - [Backend blockchain development](#backend-development)
+> - [Core protocol development](#core-protocol-development)
+> - [Full-stack blockchain development](#full-stack-blockchain-development)
+> 
+> **Coming soon**
+> 
+> - [Security engineer](#security-engineer)
+> - [MEV searcher](#mev-searcher)
+> - [Cryptographer](#cryptographer)
+> - [Blockchain data analytics](#blockchain-data-analytics)
+
 ### rossant's awesome-math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Source: https://github.com/rossant/awesome-math
@@ -130,25 +203,6 @@ Source: https://github.com/rossant/awesome-math
 >         * [Group Theory](#group-theory)
 >         * [Linear Algebra](#linear-algebra)
 
-### dcbuild3r's blockchain-development-guide
-
-Source: https://github.com/dcbuild3r/blockchain-development-guide
-
-> This guide will cover these main tracks, however anyone is free to submit a pull-request to add more or expand on the already existing ones:
-> 
-> 
-> - [Frontend development](#front-end-development)
-> - [Smart contract development](#smart-contract-development)
-> - [Backend blockchain development](#backend-development)
-> - [Core protocol development](#core-protocol-development)
-> - [Full-stack blockchain development](#full-stack-blockchain-development)
-> 
-> **Coming soon**
-> 
-> - [Security engineer](#security-engineer)
-> - [MEV searcher](#mev-searcher)
-> - [Cryptographer](#cryptographer)
-> - [Blockchain data analytics](#blockchain-data-analytics)
 
 ### nbro's understanding-math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -168,6 +222,8 @@ Source: https://github.com/nbro/understanding-math
 
 Source: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 
+> Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
+
 ### peacekeeper's identity project tracker
 
 Source: https://github.com/peacekeeper/blockchain-identity
@@ -182,6 +238,6 @@ Content:
 > 
 > * ...
 
-## the end (PRs welcome!)
+**the end 🤷‍♂️ (PRs welcome!)**
 
 <img width="420" alt="image" src="https://i.imgflip.com/66vuzz.jpg">
