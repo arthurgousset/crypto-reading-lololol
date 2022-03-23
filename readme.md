@@ -24,7 +24,7 @@
 
 ### sparbhu and gmirea's 10 lessons for web3 PMs
 
-Source: https://sunita-parbhu.medium.com/2022-top-10-resources-for-learning-blockchain-defi-nft-cc016e963aad
+🔗 Source: https://sunita-parbhu.medium.com/2022-top-10-resources-for-learning-blockchain-defi-nft-cc016e963aad
 
 > So you’re a successful tech Product Manager or similar, considering a career move into the blockchain/Defi/NFT/web3 space. Or perhaps you’re already in the sector and want to broaden your horizons and point of view. Where do you start to train yourself?
 
@@ -43,7 +43,7 @@ Contents
 
 ### Darrenlautf's dailyape notion page
 
-Source: https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e
+🔗 Source: https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e
 
 > Filtered and organised links that I shared on my telegram channel : '[The Daily Ape](http://t.me/thedailyape)' 
 
@@ -52,7 +52,7 @@ Source: https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c043
 
 ### pastry's crypto reading list
 
-Source: https://twitter.com/pastryeth/status/1502686322623979531
+🔗 Source: https://twitter.com/pastryeth/status/1502686322623979531
 
 <img width="300" alt="image" src="https://i.imgur.com/xpEgyqX.png">
 
@@ -106,7 +106,7 @@ Source: https://twitter.com/pastryeth/status/1502686322623979531
 
 ### web3pm's recommended reading list
 
-Source: https://web3pms.substack.com/p/web3pms-launch-?s=r
+🔗 Source: https://web3pms.substack.com/p/web3pms-launch-?s=r
 
 > * The [bitcoin white paper](https://bitcoin.org/bitcoin.pdf). What started the Web3 and crypto revolutions. 
 > * The [original ethereum white paper](https://ethereum.org/en/whitepaper/). Ethereum allows for smart contracts and has a robust developer ecosystem.
@@ -119,7 +119,7 @@ Source: https://web3pms.substack.com/p/web3pms-launch-?s=r
 
 ### a16z's crypto canon (2019)
 
-Source: https://gist.github.com/0xarthurxyz/1b98c88533a4fe5c3dabd6871a5f89a6
+🔗 Source: https://gist.github.com/0xarthurxyz/1b98c88533a4fe5c3dabd6871a5f89a6
  
 > WTF is the blockchain? — understanding the problem it solves before defining it
 > by Mohit Mamoria
@@ -146,7 +146,7 @@ Source: https://gist.github.com/0xarthurxyz/1b98c88533a4fe5c3dabd6871a5f89a6
 
 ### Jump crypto reading list
 
-Source: https://github.com/JumpCrypto/crypto-reading-list
+🔗 Source: https://github.com/JumpCrypto/crypto-reading-list
 
 > A curated list for getting up to speed on crypto and decentralized networks.
 > 
@@ -172,7 +172,7 @@ Contents:
 
 ### bryanhpchiang's protocol reading list
 
-Source: https://github.com/bryanhpchiang/protocol-reading-list
+🔗 Source: https://github.com/bryanhpchiang/protocol-reading-list
 
 > A list of resources for understanding crypto protocols.
 
@@ -199,7 +199,7 @@ Contents:
 
 ### dcbuild3r's blockchain-development-guide
 
-Source: https://github.com/dcbuild3r/blockchain-development-guide
+🔗 Source: https://github.com/dcbuild3r/blockchain-development-guide
 
 > This guide will cover these main tracks, however anyone is free to submit a pull-request to add more or expand on the already existing ones:
 > 
@@ -219,7 +219,7 @@ Source: https://github.com/dcbuild3r/blockchain-development-guide
 
 ### rossant's awesome-math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Source: https://github.com/rossant/awesome-math
+🔗 Source: https://github.com/rossant/awesome-math
 
 > A curated list of awesome mathematics resources.
 
@@ -245,7 +245,7 @@ Source: https://github.com/rossant/awesome-math
 
 ### nbro's understanding-math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Source: https://github.com/nbro/understanding-math
+🔗 Source: https://github.com/nbro/understanding-math
 
 > - [Understanding Mathematics](http://www.math.utah.edu/~pa/math.html), a study guide by [Peter Alfeld](http://www.math.utah.edu/~pa/)
 > - [How to Develop a Mindset for Math](https://betterexplained.com/articles/how-to-develop-a-mindset-for-math/) at [BetterExplained](https://betterexplained.com)
@@ -259,13 +259,13 @@ Source: https://github.com/nbro/understanding-math
 
 ### officer_cia's anon opsec guide
 
-Source: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
+🔗 Source: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 
 > Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 
 ### peacekeeper's identity project tracker
 
-Source: https://github.com/peacekeeper/blockchain-identity
+🔗 Source: https://github.com/peacekeeper/blockchain-identity
 
 Content:
 
