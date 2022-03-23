@@ -46,7 +46,7 @@ Source: https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c043
 
 > Filtered and organised links that I shared on my telegram channel : '[The Daily Ape](http://t.me/thedailyape)' 
 
-<img alt="image" src="https://i.imgur.com/J5eVzqz.png">
+<img alt="image" src="https://i.imgur.com/JcHG1sK.png">
 
 
 ### pastry's crypto reading list
