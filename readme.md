@@ -3,6 +3,12 @@
 <img width="520" alt="image" src="https://i.imgflip.com/66vzu7.jpg">
 
 
+## Contents
+
+1. [Less technical](#less-technical)
+2. [More technical](#more-technical)
+3. [Other](#other)
+
 ## Less technical
 
 ### nosleepjon's gud reads
@@ -89,10 +95,6 @@ Contents:
 > * kZK
 
 
-### officer_cia's anon opsec guide
-
-Source: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
-
 ### rossant's awesome-math
 
 Source: https://github.com/rossant/awesome-math
@@ -129,7 +131,11 @@ Source: https://github.com/rossant/awesome-math
 >         * [Linear Algebra](#linear-algebra)
 
 
-## Project Trackers
+## Other
+
+### officer_cia's anon opsec guide
+
+Source: https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 
 ### peacekeeper's identity project tracker
 
