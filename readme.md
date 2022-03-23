@@ -121,9 +121,7 @@ Source: https://web3pms.substack.com/p/web3pms-launch-?s=r
 
 Source: https://gist.github.com/0xarthurxyz/1b98c88533a4fe5c3dabd6871a5f89a6
 Original: https://a16z.com/2018/02/10/crypto-readings-resources/
-
-> ### Building Blocks and Basics
-> 
+ 
 > WTF is the blockchain? — understanding the problem it solves before defining it
 > by Mohit Mamoria
 > https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
@@ -143,32 +141,6 @@ Original: https://a16z.com/2018/02/10/crypto-readings-resources/
 > How does Ethereum work, anyway? — how it functions at a technical level, without complex math
 > by Preethi Kasireddy
 > https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
-
-### Building Blocks and Basics
-
-WTF is the blockchain? — understanding the problem it solves before defining it
-by Mohit Mamoria
-https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
-
-Ever wonder how bitcoin (and other cryptocurrencies) actually work?
-from 3Blue1Brown
-https://youtu.be/bBC-nXj3Ng4
-
-How the bitcoin protocol actually works
-by Michael Nielsen
-http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
-
-Ethereum in 25 minutes
-by Vitalik Buterin
-https://youtu.be/66SaEDzlmP4
-
-How does Ethereum work, anyway? — how it functions at a technical level, without complex math
-by Preethi Kasireddy
-https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
-
-Decrypting crypto, from bitcoin and blockchain to ICOs
-by Alex Rampell
-https://a16z.com/2017/12/08/summit-crypto-alex-rampell/
 
 ## More technical
 
