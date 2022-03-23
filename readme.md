@@ -40,6 +40,7 @@ Contents
 > * Lesson 8— Regulation
 > * Lesson 9— Consider DAOs
 > * Lesson 10 — Make friends, and Help
+
 ### Darrenlautf's dailyape notion page
 
 Source: https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e
@@ -102,6 +103,72 @@ Source: https://twitter.com/pastryeth/status/1502686322623979531
 
 [Why Web3 Matters](https://twitter.com/cdixon/status/1442201621266534402) - ([@cdixon](https://twitter.com/cdixon))
 > This thread by Chris details the emergence of the Web3 era, which combines the decentralized, community-governed ethos of Web1 with the advanced, modern functionality of Web2.
+
+### web3pm's recommended reading list
+
+Source: https://web3pms.substack.com/p/web3pms-launch-?s=r
+
+> * The [bitcoin white paper](https://bitcoin.org/bitcoin.pdf). What started the Web3 and crypto revolutions. 
+> * The [original ethereum white paper](https://ethereum.org/en/whitepaper/). Ethereum allows for smart contracts and has a robust developer ecosystem.
+> * [Why Web3 Matters](https://future.a16z.com/why-web3-matters/) by Chris Dixon and a16z. A summary of why Web2 was just a stepping stone.
+> * Coinbase Blog, [A Simple Guide to the Web3 Stack](https://blog.coinbase.com/a-simple-guide-to-the-web3-stack-785240e557f0). The new tech stack and the leading companies playing at each level. 
+> * [Crypto fundamentals](https://docs.google.com/presentation/d/1sUpk0gbvRQelH0MUIOqjNeGe8nwRH4mhrhDHmI6qh4M/edit#slide=id.g442eb61d9d_0_0) by Patrick Rivera. A simple but in-depth presentation of crypto. 
+> * [A Curious Beginner’s Guide to Crypto](https://creatoreconomy.so/p/curious-beginner-guide-to-crypto), Peter Yang. A great guide with simple and clear diagrams. 
+> * An [overview of Web3 and Aggregration Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) by Stratechery. 
+> * A comprehensive [crypto reading list](https://a16z.com/2018/02/10/crypto-readings-resources/) by Andreessen Horowitz.
+
+### a16z's crypto canon (2019)
+
+Source: https://gist.github.com/0xarthurxyz/1b98c88533a4fe5c3dabd6871a5f89a6
+Original: https://a16z.com/2018/02/10/crypto-readings-resources/
+
+> ### Building Blocks and Basics
+> 
+> WTF is the blockchain? — understanding the problem it solves before defining it
+> by Mohit Mamoria
+> https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
+> 
+> Ever wonder how bitcoin (and other cryptocurrencies) actually work?
+> from 3Blue1Brown
+> https://youtu.be/bBC-nXj3Ng4
+> 
+> How the bitcoin protocol actually works
+> by Michael Nielsen
+> http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+> 
+> Ethereum in 25 minutes
+> by Vitalik Buterin
+> https://youtu.be/66SaEDzlmP4
+> 
+> How does Ethereum work, anyway? — how it functions at a technical level, without complex math
+> by Preethi Kasireddy
+> https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+
+### Building Blocks and Basics
+
+WTF is the blockchain? — understanding the problem it solves before defining it
+by Mohit Mamoria
+https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348
+
+Ever wonder how bitcoin (and other cryptocurrencies) actually work?
+from 3Blue1Brown
+https://youtu.be/bBC-nXj3Ng4
+
+How the bitcoin protocol actually works
+by Michael Nielsen
+http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
+
+Ethereum in 25 minutes
+by Vitalik Buterin
+https://youtu.be/66SaEDzlmP4
+
+How does Ethereum work, anyway? — how it functions at a technical level, without complex math
+by Preethi Kasireddy
+https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+
+Decrypting crypto, from bitcoin and blockchain to ICOs
+by Alex Rampell
+https://a16z.com/2017/12/08/summit-crypto-alex-rampell/
 
 ## More technical
 
