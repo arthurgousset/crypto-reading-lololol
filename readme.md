@@ -22,6 +22,15 @@
 * [NoSleep reading list V2 🧵](https://twitter.com/nosleepjon/status/1483603470812958720)
 * [NoSleep reading list for tn 🧵](https://twitter.com/nosleepjon/status/1480353410457157640)
 
+### Darrenlautf's dailyape notion page
+
+Source: https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e
+
+> Filtered and organised links that I shared on my telegram channel : '[The Daily Ape](http://t.me/thedailyape)' 
+
+<img alt="image" src="https://i.imgur.com/J5eVzqz.png">
+
+
 ### sparbhu and gmirea's 10 lessons for web3 PMs
 
 Source: https://sunita-parbhu.medium.com/2022-top-10-resources-for-learning-blockchain-defi-nft-cc016e963aad
